@@ -1,0 +1,22 @@
+test_all_522_saved_parameter_predictions (test_release.ReleaseTests.test_all_522_saved_parameter_predictions) ... ok
+test_bad_model_schema (test_release.ReleaseTests.test_bad_model_schema) ... ok
+test_conformal_order_30 (test_release.ReleaseTests.test_conformal_order_30) ... ok
+test_constant_response_not_parameter_rank (test_release.ReleaseTests.test_constant_response_not_parameter_rank) ... ok
+test_empty (test_release.ReleaseTests.test_empty) ... ok
+test_empty_common_not_success (test_release.ReleaseTests.test_empty_common_not_success) ... ok
+test_filter_nan (test_release.ReleaseTests.test_filter_nan) ... ok
+test_filter_reproduction (test_release.ReleaseTests.test_filter_reproduction) ... ok
+test_filter_shape (test_release.ReleaseTests.test_filter_shape) ... ok
+test_filter_zero_alpha (test_release.ReleaseTests.test_filter_zero_alpha) ... ok
+test_holm (test_release.ReleaseTests.test_holm) ... ok
+test_nonfinite (test_release.ReleaseTests.test_nonfinite) ... ok
+test_reload_identical (test_release.ReleaseTests.test_reload_identical) ... ok
+test_unbounded_small_calibration (test_release.ReleaseTests.test_unbounded_small_calibration) ... ok
+test_unknown_key (test_release.ReleaseTests.test_unknown_key) ... ok
+test_wrong_rank (test_release.ReleaseTests.test_wrong_rank) ... ok
+test_wrong_width (test_release.ReleaseTests.test_wrong_width) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 0.238s
+
+OK

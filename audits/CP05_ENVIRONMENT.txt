@@ -1,0 +1,4 @@
+3.13.5 (main, Jun 25 2025, 18:55:22) [GCC 14.2.0]
+2.3.5
+/opt/pyvenv/lib/python3.13/site-packages/numpy/__init__.py
+/mnt/data/Invariant_CP05/work/pinned_env/lib/python3.13/site-packages/rari_neurobrain/__init__.py

@@ -1,0 +1,126 @@
+{
+  "A": [
+    [
+      0.6122823777714427,
+      0.8634789311114744
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "condition": null,
+  "covariance_assumption": "local homoskedastic residual approximation; singular directions explicitly unbounded",
+  "equivalence_class": "world_representative + null(A)",
+  "fit_inputs_sha256": "5826d0adf41c92849a07232a3949e3711b8f09e95a4cf3a00060882ca0d06fef",
+  "mode": "tanh",
+  "nullspace_projector": [
+    [
+      0.6654221003582987,
+      -0.4718426948815134
+    ],
+    [
+      -0.47184269488151337,
+      0.33457789964170115
+    ]
+  ],
+  "observable_projection": [
+    [
+      0.33457789964170126,
+      0.4718426948815134
+    ],
+    [
+      0.47184269488151337,
+      0.6654221003582989
+    ]
+  ],
+  "offset": [
+    -0.12543893184219104,
+    0.0
+  ],
+  "parameter_covariance": [
+    [
+      8.715399432308842e-19,
+      0.0,
+      -4.204890699396992e-19,
+      -0.0,
+      -6.95333881017591e-20,
+      -0.0
+    ],
+    [
+      0.0,
+      0.0,
+      -0.0,
+      -0.0,
+      -0.0,
+      -0.0
+    ],
+    [
+      -4.204890699396988e-19,
+      -0.0,
+      7.708574765402918e-18,
+      0.0,
+      7.059048352898092e-19,
+      0.0
+    ],
+    [
+      -0.0,
+      -0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      -6.95333881017624e-20,
+      -0.0,
+      7.05904835289864e-19,
+      0.0,
+      7.51125028565473e-18,
+      0.0
+    ],
+    [
+      -0.0,
+      -0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  ],
+  "parameter_identifiability": {
+    "J_P_rank": 6,
+    "assumptions": "local affine or tanh response, parameters are A and offset; distinct from world invertibility",
+    "condition": 3.8311821662864984,
+    "singular_values": [
+      3.469835472070978,
+      3.127698203065656,
+      1.2142790617146382,
+      1.1284686112165243,
+      1.104883775353494,
+      0.9056827165788967
+    ],
+    "theta_dimension": 6,
+    "unbounded_parameter_directions": 0
+  },
+  "probe_validation_mse": 3.8302130975193986e-17,
+  "rank": 1,
+  "singular_values": [
+    1.0585299120019547,
+    0.0
+  ],
+  "theta_order": [
+    "b0",
+    "b1",
+    "A00",
+    "A10",
+    "A01",
+    "A11"
+  ],
+  "truth_used_for_fit": false,
+  "uncertainty_unbounded_in_nullspace": true,
+  "world_representative": [
+    -0.06854532462916209,
+    -0.09666690695705737
+  ]
+}
