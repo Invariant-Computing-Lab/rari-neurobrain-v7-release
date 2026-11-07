@@ -1,5 +1,7 @@
 # RARI NeuroBrain V7 offline release candidate
 
+**Institutional context.** RARI NeuroBrain V7 is a computational research release candidate from the Invariant Computing Lab ecosystem. Its preserved fixtures, fitted banks and software tests do not constitute independently validated neural or clinical findings.
+
 CP05. G01, G03–G09 retain their catalog identities within one source lineage, not eight new studies. No cloud/provider call occurs in the supported entry points.
 
 ## Install and run
